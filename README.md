@@ -1,2 +1,2 @@
 # Dropdown w/o Javascript 
-dropdown w/o JS TEST
+dropdown w/o JS Testing
