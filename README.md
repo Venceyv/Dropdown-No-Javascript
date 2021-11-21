@@ -1,7 +1,7 @@
 # Dropdown w/o Javascript 
-dropdown w/o JS Testing
+Dropdown without JavaScript
 
-dropdown on Theme
+Dropdown on Theme
 
 ![preview](https://github.com/Venceyv/Dropdown-no-javascript-/blob/main/preview.gif)
 
